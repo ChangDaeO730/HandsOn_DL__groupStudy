@@ -6,6 +6,7 @@
 -----
 ### Materials 
 #### - 핸즈온 머신러닝 2 (Hands-On Machine Learning 2)
+http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162242964
 
 
 
