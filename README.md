@@ -1,5 +1,5 @@
 # HandsOn_DL
-### Deep Learning basic with Tensorflow practical training
+### Deep Learning basic conceptions with Tensorflow practical training
 -----
 ##### group study in _TAVE_ (https://blog.naver.com/t-ave)
 ##### starting in 01.01 ~
