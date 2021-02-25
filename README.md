@@ -5,7 +5,7 @@ starting in 2021.01.01 ~ <br/>
 on Sundays 16:00 ~
 
 
-* Members : [원희지](https://github.com/HeejiWon), [오창대](https://github.com/changdaeoh)
+* Members : [원희지](https://github.com/HeejiWon) (gmlwl10260@naver.com), [오창대](https://github.com/changdaeoh) (bnormal16@naver.com)
 * objective : studying Deep Learning basic conceptions with Tensorflow practical training
 * platform : Google Meet
 
