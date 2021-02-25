@@ -1,7 +1,7 @@
 ## 📑 Description
 
->deep learning group study in [_TAVE Research_](https://blog.naver.com/t-ave)
-starting in 2021.01.01 ~
+>deep learning group study in [_TAVE Research_](https://blog.naver.com/t-ave) <br/>
+starting in 2021.01.01 ~ <br/>
 on Sundays 16:00 ~
 
 
