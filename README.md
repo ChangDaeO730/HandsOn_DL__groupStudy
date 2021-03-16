@@ -33,4 +33,5 @@ on Sundays 16:00 ~
 | 2021.02.07 | 6 | - NLP with using RNN & Attention (HOML)  <br/> - Optimization part2 (CMU) | 오창대 | [Slide_HOML](https://github.com/changdaeoh/HandsOn_DL/blob/main/slide/DL001_s6_NLP.pdf)<BR/>[Slide_CMU](https://github.com/changdaeoh/HandsOn_DL/blob/main/slide/DL001_s6_lec7_Normalization%2CRegularization1.pdf) | 
 | 2021.02.14 | 7 | - AutoEncoder and GAN (HOML)  <br/> - Normalization & Regularization (CMU) | 원희지 | [Slide_HOML](https://github.com/changdaeoh/HandsOn_DL/blob/main/slide/DL001_s7_Autoencoder_Gan.pdf)<BR/>[Slide_CMU](https://github.com/changdaeoh/HandsOn_DL/blob/main/slide/DL001_s7_lec8_Normalization_Regularization_2.pdf)
 | 2021.02.21 | 8 | - Reinforcement Learning (HOML)  <br/> - CNN (CMU) | 오창대 | [Slide_HOML](https://github.com/changdaeoh/HandsOn_DL/blob/main/slide/DL001_s8_Reinforcement_Learning.pdf) |
-
+| 2021.03.07 | 10 | - lec10, 11 : CNNs  | 원희지 | [Slide](https://github.com/changdaeoh/HandsOn_DL/blob/main/slide/DL001_s9_lec10-11_CNN.pdf) |
+| 2021.03.14 | 11 | - lec12 : Backpropagation in CNN <br/> - lec13 : RNN intro | 오창대 | [Slide1](https://github.com/changdaeoh/HandsOn_DL/blob/main/slide/DL001_s10_lec12_backprop_in_CNN.pdf)<br/>[Slide2](https://github.com/changdaeoh/HandsOn_DL/blob/main/slide/DL001_s10_lec13_RNN.pdf) |
