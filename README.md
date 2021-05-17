@@ -16,8 +16,8 @@ on Sundays 16:00 ~
 
 ## 📚 Materials 
 - 핸즈온 머신러닝 2 (Hands-On Machine Learning 2)
-- 밑바닥부터 시작하는 딥러닝 3 (Deep Learning from Scratch 3))
 - CMU 11-785 Introduction to Deep Learning Fall 2020 [[syllabus]](https://deeplearning.cs.cmu.edu/F20/index.html)
+- 밑바닥부터 시작하는 딥러닝 3 (Deep Learning from Scratch 3))
 
 <br/>
 
