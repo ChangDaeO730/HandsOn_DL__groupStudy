@@ -42,5 +42,5 @@ on Sundays 16:00 ~
 | 2021.05.09 | 15 | - lec19 : Auto Encoder & Representation Learning<br/>- lec21 : Variational Auto Encoder (part1) | 원희지 | [Slide1](https://github.com/changdaeoh/HandsOn_DL/blob/main/slide/DL001_s15_lec19.pdf)<br/>[Slide2](https://github.com/changdaeoh/HandsOn_DL/blob/main/slide/DL001_s15_lec21.pdf) |
 | 2021.05.16 | 16 | - lec22 : Variational Auto Encoder (part2) | 원희지 | [Slide](https://github.com/changdaeoh/HandsOn_DL/blob/main/slide/DL001_s16_lec22.pdf) |
 | 2021.05.23 | 17 | - lec23 : Generative Adversarial Networks (part1) | 오창대 | [Slide](https://github.com/changdaeoh/HandsOn_DL/blob/main/slide/DL001_s17_lec23.pdf) |
-| 2021.05.30 | 18 | - lec24 : Generative Adversarial Networks (part2) | 오창대 | [Slide]() |
+| 2021.05.30 | 18 | - lec24 : Generative Adversarial Networks (part2) | 오창대 | [Slide](https://github.com/changdaeoh/HandsOn_DL/blob/main/slide/DL001_s18_lec24.pdf) |
 | 2021.06.06 | 19 | - lec25, 26 : Hopfield Nets and Boltzmann Machines | - | - |
